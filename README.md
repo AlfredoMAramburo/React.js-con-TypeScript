@@ -19,10 +19,6 @@ Este es un proyecto de React.js con TypeScript que utiliza Next.js para crear un
 
 Puedes ver el proyecto en el siguiente enlace: [React.js con TypeScript y Next.js](https://66b19dd3cc557f6b758d1210--reactjs-con-typescript.netlify.app/)
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ## Contacto
 
 Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con [AlfredoMAramburo](https://github.com/AlfredoMAramburo).
