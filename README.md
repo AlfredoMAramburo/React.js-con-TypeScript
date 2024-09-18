@@ -15,7 +15,7 @@ Este es un proyecto de React.js con TypeScript que utiliza Next.js para crear un
 - **Next.js**: Framework para React que proporciona renderizado del lado del servidor y generación de sitios estáticos.
 - **TailwindCSS**: Framework de CSS para crear diseños responsivos y estilizados de manera rápida.
 
-- ## Visualización
+## Visualización
 
 Puedes ver el proyecto en el siguiente enlace: [React.js con TypeScript y Next.js](https://66b19dd3cc557f6b758d1210--reactjs-con-typescript.netlify.app/)
 
